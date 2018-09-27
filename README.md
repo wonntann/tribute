@@ -11,4 +11,14 @@ Visit the completed website at: [Tribute](https://goo.gl/BpTf8i)
 Another source to play with the code can be viewed at: [CodePen](https://goo.gl/6pcDje)
 
 ***
+# Skills Used
+* HTML5
+* Responsive Web Design Principles
+* jQuery
+* Accessibilty (to be updated)
+* Basic CSS
+* CSS Grid
+* CSS Flexbox
+
+***
 Within the Assets folder, you can see the original mockup with original vector image.
