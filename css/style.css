@@ -12,7 +12,7 @@ html, body {
 body {
   font-family: myFirstFont;
   font-weight: 500;
-  color: #8e8d8a;
+  color: #696865;
   text-transform: uppercase;
   max-width: 1024px;
   height: 768px;
@@ -25,7 +25,7 @@ body {
   display: block;
 }
 a {
-  color: #e85a4f;;
+  color: #e85a4f;
   
 }
 footer {
@@ -82,7 +82,7 @@ p {
   z-index: 0;
 }
 p span {
-  color: #AEB6BF;
+  color: #5E6977;
   font-size: 200px;
   z-index: 10;
   text-align: center;
