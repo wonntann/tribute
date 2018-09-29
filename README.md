@@ -21,7 +21,7 @@ Another source to play with the code can be viewed at: [CodePen](https://goo.gl/
 * CSS Flexbox
 
 ***
-Accessibility
+Accessibility Checklist: https://webaim.org/standards/wcag/checklist
 * Color Contrast Passes AAA: Required contrast ratio: 4.5 <br /> 
  Quickly check on http://accessible-colors.com/ <br /> 
  Thanks to [@moroshko](https://github.com/moroshko/accessible-colors)
