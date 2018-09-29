@@ -144,7 +144,7 @@ p span::after {
   background-color: #C8271A;
 }
 .input.active::after {
-  background-color: #AEB6BF;
+  background-color: #5E6977;
 }
 .input.active span {
   font-weight: 700;
@@ -159,7 +159,7 @@ p span::after {
   content: attr(data-year);
 }
 .input.active ~ .input, .input.active ~ .input::before, .input.active ~ .input::after {
-  background-color: #AEB6BF;
+  background-color: #5E6977;
 }
 .input span {
   width: 1px;
@@ -256,7 +256,7 @@ padding-top: 0px;
     width: 60px;
     height: 60px;
     margin: 0 10px 50px;
-    background-color: #AEB6BF;
+    background-color: #5E6977;
   }
   .input::before, .input::after {
     content: none;
