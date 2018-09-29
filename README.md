@@ -22,8 +22,8 @@ Another source to play with the code can be viewed at: [CodePen](https://goo.gl/
 
 ***
 Accessibility
-* Color Contrast Passes AAA: Required contrast ratio: 4.5 &nbps;
- Quickly check on http://accessible-colors.com/ &nbps;
+* Color Contrast Passes AAA: Required contrast ratio: 4.5 <br /> 
+ Quickly check on http://accessible-colors.com/ <br /> 
  Thanks to [@moroshko](https://github.com/moroshko/accessible-colors)
 
 
