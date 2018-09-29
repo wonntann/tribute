@@ -23,7 +23,7 @@ Another source to play with the code can be viewed at: [CodePen](https://goo.gl/
 ***
 Accessibility
 * Color Contrast Passes AAA: Required contrast ratio: 4.5
-Quickly check on [http://accessible-colors.com/]
+ Quickly check on [http://accessible-colors.com/]
 
 ***
 Within the Assets folder, you can see the original mockup with original vector image.
