@@ -25,7 +25,7 @@ body {
   display: block;
 }
 a {
-  color: #e85a4f;
+  color: #C8271A;
   
 }
 footer {
@@ -76,7 +76,7 @@ grid-template-columns: 1fr 1fr;
   padding-top: 80px;
 }
 p {
-  color: #e85a4f;
+  color: #C8271A;
   text-align: center;
   font-size: 40px;
   line-height: 35px;
@@ -112,7 +112,7 @@ p span::after {
 .input {
   width: 25px;
   height: 25px;
-  background-color: #e85a4f;
+  background-color: #C8271A;
   position: relative;
   border-radius: 50%;
 }
@@ -126,7 +126,7 @@ p span::after {
   z-index: -1;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #e85a4f;
+  background-color: #C8271A;
   width: 4vw;
   height: 5px;
   max-width: 50px;
@@ -138,10 +138,10 @@ p span::after {
   right: calc(-4vw + 12.5px);
 }
 .input.active {
-  background-color: #e85a4f;
+  background-color: #C8271A;
 }
 .input.active::before {
-  background-color: #e85a4f;
+  background-color: #C8271A;
 }
 .input.active::after {
   background-color: #AEB6BF;
